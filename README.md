@@ -24,10 +24,10 @@
 
 ### 🔥 &nbsp; My Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janesiaisabel&show_icons=true&locale=en&layout=compact" alt="janesiaisabel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janesiaisabel&show_icons=true&theme=dark&locale=en&layout=compact" alt="janesiaisabel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janesiaisabel&show_icons=true&locale=en" alt="janesiaisabel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janesiaisabel&show_icons=true&theme=dark&locale=en" alt="janesiaisabel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janesiaisabel&" alt="janesiaisabel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janesiaisabel&theme=dark" alt="janesiaisabel" /></p>
 
 
