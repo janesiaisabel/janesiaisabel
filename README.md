@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently in my final year of pursuing a bachelor's degree in Information System
 
-- 🌱 I’m currently learning Flask and Flutter
+- 🌱 I’m currently learning React JS
 
 - 📄 Know about my experiences: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Janesia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/janesia-isabel-601b91243)
 
